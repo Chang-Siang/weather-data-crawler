@@ -3,4 +3,4 @@
  
  ## Source
  
- 1. Central Weather Bureau: https://www.cwb.gov.tw/
+ 1. CWB(Central Weather Bureau) Observation Data Inquire System: https://e-service.cwb.gov.tw/HistoryDataQuery/
