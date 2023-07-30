@@ -1,6 +1,6 @@
 # Data Description
 
-Source from: https://e-service.cwb.gov.tw/HistoryDataQuery/downloads/Readme.pdf
+[source](https://e-service.cwb.gov.tw/HistoryDataQuery/downloads/Readme.pdf)
 
 ## Meta
 
@@ -13,8 +13,8 @@ Source from: https://e-service.cwb.gov.tw/HistoryDataQuery/downloads/Readme.pdf
 |    466920 | 臺北         |      5.3 | 臺北市 | 121.515 | 25.0377 | 中正區公園路 64 號            | 1896/08/11 |
 |       ... |              |          |        |         |         |                               |            |
 
-1. 本表所列站號"46"開頭為中央氣象局地面氣象站，觀測項目包含人工觀測(淡水站、梧棲站、永康站、七股站、成功站無人工觀測項目)。
-2. 本表所列站號"C"開頭為中央氣象局自動氣象/雨量站，第二碼"0"代表氣象站，"1"代表雨量站。
+1. 本表所列站號 "46" 開頭為中央氣象局地面氣象站，觀測項目包含人工觀測（淡水站、梧棲站、永康站、七股站、成功站無人工觀測項目）。
+2. 本表所列站號 "C" 開頭為中央氣象局自動氣象/雨量站，第二碼 "0" 代表氣象站，"1" 代表雨量站。
 3. 自動氣象站觀測項目：1.雨量 2.氣溫 3.風速/風向 4.測站氣壓 5.日照時數 6.濕度，4-6 項因測站而異。
 4. 自動雨量站觀測項目：雨量。
 5. 經緯度資料為 WGS84 座標。
