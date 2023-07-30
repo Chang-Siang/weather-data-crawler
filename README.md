@@ -4,11 +4,11 @@ Download weather data from weather bureau.
 
 ## CWB, Central Weather Bureau of Taiwan
 
-Crawl data from [Observation Data Inquire System](https://e-service.cwb.gov.tw/HistoryDataQuery/)
+Crawl data from [Observation Data Inquire System](https://e-service.cwb.gov.tw/HistoryDataQuery/).
 
 ### Usage
 
-Clone this repository, and run the following command in the terminal
+Clone this repository, and run the following command in the terminal.
 
 ```bash
 python get_cwb_observation.py --path <path> --start <start> --end <end>
